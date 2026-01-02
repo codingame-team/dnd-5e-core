@@ -274,7 +274,7 @@ monster = loader.get_monster("Orc")
 
 - [API D&D 5e officielle](https://www.dnd5eapi.co/)
 - [5e.tools](https://5e.tools/)
-- [Documentation dnd-5e-core](../dnd-5e-core/README.md)
+- [Documentation dnd-5e-core](../README.md)
 
 ### Fichiers clés
 
